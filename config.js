@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['+34611731555', 'Botcito Sexi', true],
-  ['+34611731555', 'Botcito Sexi 1', true],
-  ['+34611731555', 'Botcito Sexi 2', true],
-  ['+34611731555', 'Botcito Sexi 3', true],
-  ['+34611731555', 'Botcito Sexi 4', true],
-  ['+34611731555', 'Botcito Sexi 5', true],
-  ['+34611731555', 'Botcito Sexi 6', false],
-  ['+34611731555', 'Botcito Sexi 7', true],
-  ['+34611731555', 'Botcito Sexi 8', true],
-  ['+34611731555', 'Botcito Sexi 9', true],
-  ['+34611731555', 'Botcito Sexi 19', true], 
-  ['+34611731555', 'Botcito Sexi 11', true],
-  ['+34611731555', 'Botcito Sexi 12', true], 
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'], 
-  ['+34611731555'],  
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'], 
-  ['+34611731555'], 
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'], 
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555'],
-  ['+34611731555']
+  ['+1 (682) 293-3294', 'Botcito Sexi', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 1', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 2', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 3', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 4', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 5', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 6', false],
+  ['+1 (682) 293-3294', 'Botcito Sexi 7', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 8', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 9', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 19', true], 
+  ['+1 (682) 293-3294', 'Botcito Sexi 11', true],
+  ['+1 (682) 293-3294', 'Botcito Sexi 12', true], 
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'], 
+  ['+1 (682) 293-3294'],  
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'], 
+  ['+1 (682) 293-3294'], 
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'], 
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294'],
+  ['+1 (682) 293-3294']
 ];
 
-global.suittag = ['+34611731555'];
-global.prems = ['+34611731555'];
+global.suittag = ['+1 (682) 293-3294'];
+global.prems = ['+1 (682) 293-3294'];
 
 global.packname = 'Sticker';
-global.author = '𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚';
-global.wm = '𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚';
-global.titulowm = '𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚';
-global.titulowm2 = `𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚`
-global.igfg = '𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚';
+global.author = '𝙄𝘾𝙀 𝙍𝘼𝙉𝙆';
+global.wm = '𝙄𝘾𝙀 𝙍𝘼𝙉𝙆';
+global.titulowm = '𝙄𝘾𝙀 𝙍𝘼𝙉𝙆';
+global.titulowm2 = `𝙄𝘾𝙀 𝙍𝘼𝙉𝙆`
+global.igfg = '𝙄𝘾𝙀 𝙍𝘼𝙉𝙆';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -83,12 +83,12 @@ global.wm2 = `${dia} ${fecha}\n𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚`;
 global.gt = '𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚';
 global.mysticbot = '𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://www.instagram.com/melsitaaaay';
-global.mysticbot = 'https://www.instagram.com/melsitaaaay';
+global.md = 'https://www.instagram.com/icedannn';
+global.mysticbot = 'https://www.instagram.com/icedann';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '+34611731555';
+global.nomorown = '+1 (682) 293-3294';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

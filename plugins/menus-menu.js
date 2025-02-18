@@ -33,10 +33,10 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `⫷⌧⌧⌧⌧ ⚡ ⌧⌧⌧⌧⪢
-🚀 Creador : 𝐁𝐨𝐭 𝐌𝐞𝐥𝐬𝐢𝐭𝐚
-🚀 Wa.me/+34611731555
-🚀 Ventas : https://www.instagram.com/melsitaaaay
-⫷⌧⌧⌧⌧ 💘 ⌧⌧⌧⌧⪢
+🚀 Creador : 𝙄𝘾𝙀𝘿𝘼𝙉𝙉
+🚀 Wa.me/+1 (682) 293-3294
+🚀 @ice_rank_of
+⫷⌧⌧⌧⌧ 🥶 ⌧⌧⌧⌧⪢
 
 
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
